@@ -1,0 +1,4 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme for night mode. -->
+    <style name="Theme.HorizonTourist" parent="Base.Theme.HorizonTourist" />
+</resources>
